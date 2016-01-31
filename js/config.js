@@ -55,7 +55,7 @@ $(function() {
     // to Github pages branch (gh-pages)
     githubUserSettings: {
       username: 'sc0ttwad3',
-      repo: 'sc0ttwad3.github.com'
+      repo: 'https://github.com/sc0ttwad3/sc0ttwad3.github.com'
     }
 
   });

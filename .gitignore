@@ -5,3 +5,5 @@ release/*
 release.zip
 .idea/
 dev/*
+.gatsby-context.js
+*-archive

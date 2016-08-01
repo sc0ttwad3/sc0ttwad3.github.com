@@ -31,5 +31,11 @@
     "eslint-plugin-react": "^5.1.1",
     "live-server": "^1.0.0",
     "webpack": "^1.13.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/rafrex/spa-github-pages/issues"
+  },
+  "homepage": "https://github.com/rafrex/spa-github-pages#readme",
+  "main": "index.js",
+  "keywords": []
 }

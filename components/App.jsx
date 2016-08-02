@@ -29,7 +29,7 @@ function App({ children, routes }) {
     );
   }
 
-  const repoLink = 'https://github.com/sc0ttwad3/sc0ttwad3.github.com';
+  const repoLink = 'http://github.com/sc0ttwad3/sc0ttwad3.github.com';
   const tempLink = "";
 
   return (

@@ -29,7 +29,7 @@ function App({ children, routes }) {
     );
   }
 
-  const repoLink = 'https://github.com/sc0ttwad3/sc0ttwad3.github.com';
+  const repoLink = 'http://github.com/sc0ttwad3/sc0ttwad3.github.com';
 
   return (
     <div>
@@ -40,7 +40,7 @@ function App({ children, routes }) {
       </nav>
       {children}
       <div style={{ color: '#A0A0A0', fontSize: '14px', marginTop: '50px' }}>
-        <a href="https://www.sc0ttwad3.com" className="extended-link">
+        <a href="http://www.sc0ttwad3.com" className="extended-link">
           Customization by <span className="link-style">Scott Wade</span>
         </a>
       </div>

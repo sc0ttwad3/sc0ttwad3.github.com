@@ -30,7 +30,8 @@ function App({ children, routes }) {
   }
 
   const repoLink = 'https://github.com/sc0ttwad3/sc0ttwad3.github.com';
-
+  const tempLink = "";
+  
   return (
     <div>
       <h1>sc0ttwad3</h1>

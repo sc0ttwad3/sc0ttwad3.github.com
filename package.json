@@ -1,15 +1,14 @@
 {
   "name": "spa-github-pages",
   "version": "2.0.0",
-  "description": "Single Page Apps for GitHub Pages",
+  "description": "sc0ttwad3",
   "scripts": {
     "start": "webpack -d --watch & live-server --entry-file=404.html"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rafrex/spa-github-pages.git"
+    "type": "git"
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
+  "author": "Scott Wade <sc0ttwad3@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "current-input": "^1.1.0",
@@ -30,12 +29,13 @@
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^6.0.0",
     "live-server": "^1.0.0",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.1",
+    "webpack-validator": "^2.2.6"
   },
   "bugs": {
-    "url": "https://github.com/rafrex/spa-github-pages/issues"
+    "url": "https://github.com/sc0ttwad3/sc0ttwad3.github.com/issues"
   },
-  "homepage": "https://github.com/rafrex/spa-github-pages#readme",
+  "homepage": "https://github.com/sc0ttwad3/sc0ttwad3.github.come",
   "main": "index.js",
   "keywords": []
 }

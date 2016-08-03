@@ -41,7 +41,7 @@ function App({ children, routes }) {
       {children}
       <div style={{ color: '#A0A0A0', fontSize: '14px', marginTop: '50px' }}>
         <a href="http://www.sc0ttwad3.com" className="extended-link">
-          Customization by <span className="link-style">Scott Wade</span>
+          XCreative by <span className="link-style">Scott Wade</span>
         </a>
       </div>
     </div>

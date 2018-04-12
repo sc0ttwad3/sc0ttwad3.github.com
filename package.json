@@ -1,0 +1,26 @@
+{
+  "name": "sc0ttwad3.github.com",
+  "version": "0.0.5",
+  "description": "HTML site for sc0ttwad3.com",
+  "main": "index.html",
+  "scripts": {
+    "start": "simplehttp2server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Wade <sc0ttwad3@gmail.com> (http://sc0ttwad3.com)",
+  "license": "MIT",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc0ttwad3/sc0ttwad3.github.com.git"
+  },
+  "keywords": [
+    "developer"
+  ],
+  "bugs": {
+    "url": "https://github.com/sc0ttwad3/sc0ttwad3.github.com/issues"
+  },
+  "homepage": "https://github.com/sc0ttwad3/sc0ttwad3.github.com#readme"
+}
